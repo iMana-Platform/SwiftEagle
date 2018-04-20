@@ -1,2 +1,3 @@
 # SwiftEagle
-A tool for detect resource files in a Xcode project.
+
+A lightweight tool to detect resource files in a Xcode project.
